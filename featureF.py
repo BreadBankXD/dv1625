@@ -3,3 +3,7 @@ def featureF():
 
 def Optimizing_something_I_guess():
     print("My favorite number is 88")
+
+
+def NotBugNotBug():
+    print("Optimizing......")
